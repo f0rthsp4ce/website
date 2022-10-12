@@ -3,7 +3,7 @@
     <title>F0RTHSP4CE</title>
     <link href="https://f0rth.space/feed.xml" rel="self" />
     <link href="https://f0rth.space" />
-    <updated>2022-10-09T13:27:46+04:00</updated>
+    <updated>2022-10-13T00:00:52+04:00</updated>
     <author>
         <name>morris</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://f0rth.space/visit-us.html"/>
         <id>https://f0rth.space/visit-us.html</id>
 
-        <updated>2022-10-09T12:48:33+04:00</updated>
+        <updated>2022-10-13T00:00:52+04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://f0rth.space/media/posts/12/entrance.jpeg" alt="" />
@@ -40,7 +40,7 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap'
 }).addTo(map);
 L.marker([41.706632, 44.781503]).addTo(map)
-    .bindPopup('F0RTHSP4CE<br>აკაკი ხორავის ქუჩა 18 / ვერა / ტბილი<br>Akaki Khorava Street, 18 / Vera / Tbilisi')
+    .bindPopup('F0RTHSP4CE<br>აკაკი ხორავის ქუჩა 18 / ვერა / თბილისი<br>Akaki Khorava Street, 18 / Vera / Tbilisi')
     .openPopup();
 </script>
 
