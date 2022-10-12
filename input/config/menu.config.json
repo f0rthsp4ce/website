@@ -1,0 +1,105 @@
+[
+    {
+        "name": "main-menu",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1664516561572,
+                "label": "principles",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 4,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1664520541265,
+                "label": "events",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 6,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1664523234338,
+                        "label": "3D NIGHT",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 2,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1664552122700,
+                        "label": "Digital Audio JAM",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 4,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 1664517328515,
+                "label": "news",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": true,
+                "items": []
+            },
+            {
+                "id": 1665220101946,
+                "label": "wiki",
+                "title": "",
+                "type": "external",
+                "target": "_blank",
+                "rel": "",
+                "link": "https://wiki.f0rth.space/",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1664523180481,
+                "label": "membership",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 8,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1664515846908,
+                "label": "visit",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 12,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ]
+    }
+]

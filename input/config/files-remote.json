@@ -1,0 +1,807 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "5cb50f71d215fc7bdd0eda136ba800e2"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "d4b41c8f36778c516582dd4b6f45ddbe"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "357f87f4e9502a5318d89e8e76e0a344"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "6a9cf19bd9b3cc9225ef4f04ea7284ba"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e0c4d53c21e83015f166f4b853f8ade4"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f47c11534595205f20935f0db2a62a85"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "9e0cdeb5b05f8608bfa7ad95502db847"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "347a6c1101667612528f32457b9691f9"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/morris",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/morris/index.html",
+        "type": "file",
+        "md5": "8e76c532758734fb9d9e2f77d8d98a6b"
+    },
+    {
+        "path": "digital-audio-jam.html",
+        "type": "file",
+        "md5": "3093707db999bca81452162028f2acbd"
+    },
+    {
+        "path": "entrance.jpeg",
+        "type": "file",
+        "md5": "374f0268e45869b39cb4c6c7f20789b2"
+    },
+    {
+        "path": "events.html",
+        "type": "file",
+        "md5": "00d309fd675cd266ca5838a75420948f"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "84371d43c262bdcc5bff3c114afac069"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/11",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/photo_5319077225707979362_y-2.jpeg",
+        "type": "file",
+        "md5": "da4832a86bd2ab7843b948746a0fbd92"
+    },
+    {
+        "path": "/media/posts/11/photo_5319077225707979362_y.jpeg",
+        "type": "file",
+        "md5": "da4832a86bd2ab7843b948746a0fbd92"
+    },
+    {
+        "path": "media/posts/11/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-2-2xl.jpeg",
+        "type": "file",
+        "md5": "99dfdf1df4b4636c9619cc77d85a282f"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-2-lg.jpeg",
+        "type": "file",
+        "md5": "d4bf3a9bfc84c83580124531102821d8"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-2-md.jpeg",
+        "type": "file",
+        "md5": "ec7ea3493083787a67f8256aa3655dc1"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-2-sm.jpeg",
+        "type": "file",
+        "md5": "1806e98ef106db5fdb5de7edc5bf64ac"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-2-xl.jpeg",
+        "type": "file",
+        "md5": "99dfdf1df4b4636c9619cc77d85a282f"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-2-xs.jpeg",
+        "type": "file",
+        "md5": "119cb08b7c782481183d84d944d924e4"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-2xl.jpeg",
+        "type": "file",
+        "md5": "99dfdf1df4b4636c9619cc77d85a282f"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-lg.jpeg",
+        "type": "file",
+        "md5": "d4bf3a9bfc84c83580124531102821d8"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-md.jpeg",
+        "type": "file",
+        "md5": "ec7ea3493083787a67f8256aa3655dc1"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-sm.jpeg",
+        "type": "file",
+        "md5": "1806e98ef106db5fdb5de7edc5bf64ac"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-xl.jpeg",
+        "type": "file",
+        "md5": "99dfdf1df4b4636c9619cc77d85a282f"
+    },
+    {
+        "path": "/media/posts/11/responsive/photo_5319077225707979362_y-xs.jpeg",
+        "type": "file",
+        "md5": "119cb08b7c782481183d84d944d924e4"
+    },
+    {
+        "path": "media/posts/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/entrance-2.jpeg",
+        "type": "file",
+        "md5": "374f0268e45869b39cb4c6c7f20789b2"
+    },
+    {
+        "path": "/media/posts/12/entrance.jpeg",
+        "type": "file",
+        "md5": "374f0268e45869b39cb4c6c7f20789b2"
+    },
+    {
+        "path": "media/posts/12/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-2-2xl.jpeg",
+        "type": "file",
+        "md5": "9f2ffcdcc58632f0f9866e84a3a9fa8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-2-lg.jpeg",
+        "type": "file",
+        "md5": "9f2ffcdcc58632f0f9866e84a3a9fa8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-2-md.jpeg",
+        "type": "file",
+        "md5": "25e3a3c5e56461846d1ffc0934eed98d"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-2-sm.jpeg",
+        "type": "file",
+        "md5": "e6748db4de894ce8775c69028720c4d1"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-2-xl.jpeg",
+        "type": "file",
+        "md5": "9f2ffcdcc58632f0f9866e84a3a9fa8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-2-xs.jpeg",
+        "type": "file",
+        "md5": "6f7f5d360eabb59ddb9d5be17e436bcd"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-2xl.jpeg",
+        "type": "file",
+        "md5": "9f2ffcdcc58632f0f9866e84a3a9fa8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-lg.jpeg",
+        "type": "file",
+        "md5": "9f2ffcdcc58632f0f9866e84a3a9fa8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-md.jpeg",
+        "type": "file",
+        "md5": "25e3a3c5e56461846d1ffc0934eed98d"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-sm.jpeg",
+        "type": "file",
+        "md5": "e6748db4de894ce8775c69028720c4d1"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-xl.jpeg",
+        "type": "file",
+        "md5": "9f2ffcdcc58632f0f9866e84a3a9fa8b"
+    },
+    {
+        "path": "/media/posts/12/responsive/entrance-xs.jpeg",
+        "type": "file",
+        "md5": "6f7f5d360eabb59ddb9d5be17e436bcd"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/DALLE-2022-10-09-13.16.09-hacker-principles-manifest-digital-art.png",
+        "type": "file",
+        "md5": "bfb89474eb481180f642987ca57a9373"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/DALLE-2022-10-09-13.16.09-hacker-principles-manifest-digital-art-2xl.png",
+        "type": "file",
+        "md5": "c7a81fa189490d3b28348e2bc699ddfe"
+    },
+    {
+        "path": "/media/posts/4/responsive/DALLE-2022-10-09-13.16.09-hacker-principles-manifest-digital-art-lg.png",
+        "type": "file",
+        "md5": "c7a81fa189490d3b28348e2bc699ddfe"
+    },
+    {
+        "path": "/media/posts/4/responsive/DALLE-2022-10-09-13.16.09-hacker-principles-manifest-digital-art-md.png",
+        "type": "file",
+        "md5": "1bf13974b1977c0d99e434911bca8983"
+    },
+    {
+        "path": "/media/posts/4/responsive/DALLE-2022-10-09-13.16.09-hacker-principles-manifest-digital-art-sm.png",
+        "type": "file",
+        "md5": "9a48e47e99e99a91de69d32fa6c0c092"
+    },
+    {
+        "path": "/media/posts/4/responsive/DALLE-2022-10-09-13.16.09-hacker-principles-manifest-digital-art-xl.png",
+        "type": "file",
+        "md5": "c7a81fa189490d3b28348e2bc699ddfe"
+    },
+    {
+        "path": "/media/posts/4/responsive/DALLE-2022-10-09-13.16.09-hacker-principles-manifest-digital-art-xs.png",
+        "type": "file",
+        "md5": "c46969ff2a7e29ba4b10818cae7b73a4"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/DALLE-2022-10-09-13.14.08.png",
+        "type": "file",
+        "md5": "c1535ea3ae070e77f7d0bb8a4778d14f"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/DALLE-2022-10-09-13.14.08-2xl.png",
+        "type": "file",
+        "md5": "2fba2ed98c8b9674dbec9213f5033ee1"
+    },
+    {
+        "path": "/media/posts/6/responsive/DALLE-2022-10-09-13.14.08-lg.png",
+        "type": "file",
+        "md5": "2fba2ed98c8b9674dbec9213f5033ee1"
+    },
+    {
+        "path": "/media/posts/6/responsive/DALLE-2022-10-09-13.14.08-md.png",
+        "type": "file",
+        "md5": "99fcba3e35c7995aba767c815bff4b28"
+    },
+    {
+        "path": "/media/posts/6/responsive/DALLE-2022-10-09-13.14.08-sm.png",
+        "type": "file",
+        "md5": "2a71d98a6eaa48c983295ff4125445b9"
+    },
+    {
+        "path": "/media/posts/6/responsive/DALLE-2022-10-09-13.14.08-xl.png",
+        "type": "file",
+        "md5": "2fba2ed98c8b9674dbec9213f5033ee1"
+    },
+    {
+        "path": "/media/posts/6/responsive/DALLE-2022-10-09-13.14.08-xs.png",
+        "type": "file",
+        "md5": "9a847ed50dea4ad528f5c012df61f316"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/photo_5305657823729926263_y-2.jpeg",
+        "type": "file",
+        "md5": "2b86fc7cf7a13a6bf84291f8184c052c"
+    },
+    {
+        "path": "/media/posts/7/photo_5305657823729926263_y.jpeg",
+        "type": "file",
+        "md5": "2b86fc7cf7a13a6bf84291f8184c052c"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-2-2xl.jpeg",
+        "type": "file",
+        "md5": "121454a861642d090fdf9859ef7aeece"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-2-lg.jpeg",
+        "type": "file",
+        "md5": "121454a861642d090fdf9859ef7aeece"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-2-md.jpeg",
+        "type": "file",
+        "md5": "7e8bde21a1dc052e857d301aae7ba9da"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-2-sm.jpeg",
+        "type": "file",
+        "md5": "ee70b3dec51a8aa6bd0bd1b627f2978f"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-2-xl.jpeg",
+        "type": "file",
+        "md5": "121454a861642d090fdf9859ef7aeece"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-2-xs.jpeg",
+        "type": "file",
+        "md5": "4c3a21f2df468a8cccb5b94718bcb083"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-2xl.jpeg",
+        "type": "file",
+        "md5": "121454a861642d090fdf9859ef7aeece"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-lg.jpeg",
+        "type": "file",
+        "md5": "121454a861642d090fdf9859ef7aeece"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-md.jpeg",
+        "type": "file",
+        "md5": "7e8bde21a1dc052e857d301aae7ba9da"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-sm.jpeg",
+        "type": "file",
+        "md5": "ee70b3dec51a8aa6bd0bd1b627f2978f"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-xl.jpeg",
+        "type": "file",
+        "md5": "121454a861642d090fdf9859ef7aeece"
+    },
+    {
+        "path": "/media/posts/7/responsive/photo_5305657823729926263_y-xs.jpeg",
+        "type": "file",
+        "md5": "4c3a21f2df468a8cccb5b94718bcb083"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/DALLE-2022-10-09-13.25.39-lego-people-in-a-futuristic-city-in-the-style-of-blade-runner-digital-art.png",
+        "type": "file",
+        "md5": "fb7f80a714022dd3c026a0f9ad4e4d7d"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/DALLE-2022-10-09-13.25.39-lego-people-in-a-futuristic-city-in-the-style-of-blade-runner-digital-art-2xl.png",
+        "type": "file",
+        "md5": "b3f05619b5e657dbc8b6ee31e9368598"
+    },
+    {
+        "path": "/media/posts/8/responsive/DALLE-2022-10-09-13.25.39-lego-people-in-a-futuristic-city-in-the-style-of-blade-runner-digital-art-lg.png",
+        "type": "file",
+        "md5": "b3f05619b5e657dbc8b6ee31e9368598"
+    },
+    {
+        "path": "/media/posts/8/responsive/DALLE-2022-10-09-13.25.39-lego-people-in-a-futuristic-city-in-the-style-of-blade-runner-digital-art-md.png",
+        "type": "file",
+        "md5": "3d59e51eb49a4f2b2c596cc59939f09b"
+    },
+    {
+        "path": "/media/posts/8/responsive/DALLE-2022-10-09-13.25.39-lego-people-in-a-futuristic-city-in-the-style-of-blade-runner-digital-art-sm.png",
+        "type": "file",
+        "md5": "8f6e80ef6593b1cce8e0db6e7652343c"
+    },
+    {
+        "path": "/media/posts/8/responsive/DALLE-2022-10-09-13.25.39-lego-people-in-a-futuristic-city-in-the-style-of-blade-runner-digital-art-xl.png",
+        "type": "file",
+        "md5": "b3f05619b5e657dbc8b6ee31e9368598"
+    },
+    {
+        "path": "/media/posts/8/responsive/DALLE-2022-10-09-13.25.39-lego-people-in-a-futuristic-city-in-the-style-of-blade-runner-digital-art-xs.png",
+        "type": "file",
+        "md5": "7c3a8bb43f253d03cf18b3712037ef8c"
+    },
+    {
+        "path": "media/tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/tags/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/2/photo_5305657823729926263_y-2.jpeg",
+        "type": "file",
+        "md5": "2b86fc7cf7a13a6bf84291f8184c052c"
+    },
+    {
+        "path": "media/tags/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/2/responsive/photo_5305657823729926263_y-2-2xl.jpeg",
+        "type": "file",
+        "md5": "121454a861642d090fdf9859ef7aeece"
+    },
+    {
+        "path": "/media/tags/2/responsive/photo_5305657823729926263_y-2-lg.jpeg",
+        "type": "file",
+        "md5": "121454a861642d090fdf9859ef7aeece"
+    },
+    {
+        "path": "/media/tags/2/responsive/photo_5305657823729926263_y-2-md.jpeg",
+        "type": "file",
+        "md5": "7e8bde21a1dc052e857d301aae7ba9da"
+    },
+    {
+        "path": "/media/tags/2/responsive/photo_5305657823729926263_y-2-sm.jpeg",
+        "type": "file",
+        "md5": "ee70b3dec51a8aa6bd0bd1b627f2978f"
+    },
+    {
+        "path": "/media/tags/2/responsive/photo_5305657823729926263_y-2-xl.jpeg",
+        "type": "file",
+        "md5": "121454a861642d090fdf9859ef7aeece"
+    },
+    {
+        "path": "/media/tags/2/responsive/photo_5305657823729926263_y-2-xs.jpeg",
+        "type": "file",
+        "md5": "4c3a21f2df468a8cccb5b94718bcb083"
+    },
+    {
+        "path": "media/tags/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/4/photo_5319077225707979362_y.jpeg",
+        "type": "file",
+        "md5": "da4832a86bd2ab7843b948746a0fbd92"
+    },
+    {
+        "path": "media/tags/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/4/responsive/photo_5319077225707979362_y-2xl.jpeg",
+        "type": "file",
+        "md5": "99dfdf1df4b4636c9619cc77d85a282f"
+    },
+    {
+        "path": "/media/tags/4/responsive/photo_5319077225707979362_y-lg.jpeg",
+        "type": "file",
+        "md5": "d4bf3a9bfc84c83580124531102821d8"
+    },
+    {
+        "path": "/media/tags/4/responsive/photo_5319077225707979362_y-md.jpeg",
+        "type": "file",
+        "md5": "ec7ea3493083787a67f8256aa3655dc1"
+    },
+    {
+        "path": "/media/tags/4/responsive/photo_5319077225707979362_y-sm.jpeg",
+        "type": "file",
+        "md5": "1806e98ef106db5fdb5de7edc5bf64ac"
+    },
+    {
+        "path": "/media/tags/4/responsive/photo_5319077225707979362_y-xl.jpeg",
+        "type": "file",
+        "md5": "99dfdf1df4b4636c9619cc77d85a282f"
+    },
+    {
+        "path": "/media/tags/4/responsive/photo_5319077225707979362_y-xs.jpeg",
+        "type": "file",
+        "md5": "119cb08b7c782481183d84d944d924e4"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/favicon-16x16-2.png",
+        "type": "file",
+        "md5": "483c47ac29b15b5e516ec73cf31d631a"
+    },
+    {
+        "path": "/media/website/favicon-2.ico",
+        "type": "file",
+        "md5": "d3b493ef451594bc65c0f59ef7bbae22"
+    },
+    {
+        "path": "/media/website/favicon-32x32-2.png",
+        "type": "file",
+        "md5": "afef3bca5a33f7a2e0f30adf12c1af36"
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "d3b493ef451594bc65c0f59ef7bbae22"
+    },
+    {
+        "path": "/media/website/photo_5287779575683727148_y.jpg",
+        "type": "file",
+        "md5": "b9cbf619b60e2ee0bfffae8777a1af13"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-2-2xl.png",
+        "type": "file",
+        "md5": "76073a3880b88cb61292e46cb55e227d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-2-lg.png",
+        "type": "file",
+        "md5": "76073a3880b88cb61292e46cb55e227d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-2-md.png",
+        "type": "file",
+        "md5": "76073a3880b88cb61292e46cb55e227d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-2-sm.png",
+        "type": "file",
+        "md5": "76073a3880b88cb61292e46cb55e227d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-2-xl.png",
+        "type": "file",
+        "md5": "76073a3880b88cb61292e46cb55e227d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-16x16-2-xs.png",
+        "type": "file",
+        "md5": "76073a3880b88cb61292e46cb55e227d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-2-2xl.png",
+        "type": "file",
+        "md5": "1c19f93329013f8cdd9ca81811c9ac0d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-2-lg.png",
+        "type": "file",
+        "md5": "1c19f93329013f8cdd9ca81811c9ac0d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-2-md.png",
+        "type": "file",
+        "md5": "1c19f93329013f8cdd9ca81811c9ac0d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-2-sm.png",
+        "type": "file",
+        "md5": "1c19f93329013f8cdd9ca81811c9ac0d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-2-xl.png",
+        "type": "file",
+        "md5": "1c19f93329013f8cdd9ca81811c9ac0d"
+    },
+    {
+        "path": "/media/website/responsive/favicon-32x32-2-xs.png",
+        "type": "file",
+        "md5": "1c19f93329013f8cdd9ca81811c9ac0d"
+    },
+    {
+        "path": "/media/website/responsive/photo_5287779575683727148_y-2xl.jpg",
+        "type": "file",
+        "md5": "6433f6c31dfba8f775bd80062c44f4ee"
+    },
+    {
+        "path": "/media/website/responsive/photo_5287779575683727148_y-lg.jpg",
+        "type": "file",
+        "md5": "5c79894b9feb49990b5bbd7104b683f0"
+    },
+    {
+        "path": "/media/website/responsive/photo_5287779575683727148_y-md.jpg",
+        "type": "file",
+        "md5": "da9eb63b4fa27ce5dd4dd4ab65dc5561"
+    },
+    {
+        "path": "/media/website/responsive/photo_5287779575683727148_y-sm.jpg",
+        "type": "file",
+        "md5": "122e8bb80357f3cf5b4872d342288535"
+    },
+    {
+        "path": "/media/website/responsive/photo_5287779575683727148_y-xl.jpg",
+        "type": "file",
+        "md5": "6433f6c31dfba8f775bd80062c44f4ee"
+    },
+    {
+        "path": "/media/website/responsive/photo_5287779575683727148_y-xs.jpg",
+        "type": "file",
+        "md5": "4e68e41a6da0e6d01c4b267afa830205"
+    },
+    {
+        "path": "principles.html",
+        "type": "file",
+        "md5": "042dc8aaec34cb91cc7961fe0730128f"
+    },
+    {
+        "path": "residents.html",
+        "type": "file",
+        "md5": "a46408b519655389e00e3a6f917cd7af"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "50d8a018e8ae96732c8a2ba663c61d4e"
+    },
+    {
+        "path": "self-organizing-systems.html",
+        "type": "file",
+        "md5": "dff3f7dfcb0a37e779aa5b9fbccf79fa"
+    },
+    {
+        "path": "some-news.html",
+        "type": "file",
+        "md5": "a818275686898416dc5e83b81fdaef73"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/3d-night",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/3d-night/index.html",
+        "type": "file",
+        "md5": "859a011accf5054fb3933f69ae4a7fc0"
+    },
+    {
+        "path": "tags/digital-audio-jam",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/digital-audio-jam/index.html",
+        "type": "file",
+        "md5": "ef8c7f7353cf7cab96ee3824f9bf246c"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "bfa6c1391bf7bf22df224f7234ad10e2"
+    },
+    {
+        "path": "tags/news",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/news/index.html",
+        "type": "file",
+        "md5": "240e16785c7c1afe58c57565ee1e27ca"
+    },
+    {
+        "path": "visit-us.html",
+        "type": "file",
+        "md5": "71143cc3c623c0c46edc47ab86c4bb89"
+    }
+]
