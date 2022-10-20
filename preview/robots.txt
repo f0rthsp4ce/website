@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/sitemap.xml
