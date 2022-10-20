@@ -163,7 +163,7 @@
         }
     },
     "deployment": {
-        "protocol": "github-pages",
+        "protocol": "manual",
         "relativeUrls": false,
         "port": "",
         "server": "",
@@ -188,9 +188,9 @@
         },
         "github": {
             "server": "api.github.com",
-            "user": "f0rthsp4ce",
-            "repo": "website",
-            "branch": "pages",
+            "user": "",
+            "repo": "",
+            "branch": "",
             "token": "",
             "parallelOperations": 1,
             "apiRateLimiting": 1
@@ -216,5 +216,5 @@
         }
     },
     "theme": "simple-f0rth",
-    "syncDate": 1665591609370
+    "syncDate": 1666090116863
 }

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>F0RTHSP4CE</title>
-    <link href="https://f0rth.space/feed.xml" rel="self" />
-    <link href="https://f0rth.space" />
+    <link href="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/feed.xml" rel="self" />
+    <link href="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview" />
     <updated>2022-10-13T00:00:52+04:00</updated>
     <author>
         <name>morris</name>
     </author>
-    <id>https://f0rth.space</id>
+    <id>file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview</id>
 
     <entry>
         <title>visit us</title>
         <author>
             <name>morris</name>
         </author>
-        <link href="https://f0rth.space/visit-us.html"/>
-        <id>https://f0rth.space/visit-us.html</id>
+        <link href="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/visit-us.html"/>
+        <id>file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/visit-us.html</id>
 
         <updated>2022-10-13T00:00:52+04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://f0rth.space/media/posts/12/entrance.jpeg" alt="" />
+                        <img src="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/entrance.jpeg" alt="" />
                     You can visit us during public opening times in our space. Scroll down to see an image of our door. –
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://f0rth.space/media/posts/12/entrance.jpeg" alt="" />
+                    <img src="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/entrance.jpeg" alt="" />
                 <h4 id="you-can-visit-us-during-public-opening-times-in-our-space">You can visit us during public opening times in our space.</h4>
 <p>Scroll down to see an image of our door.</p>
 <p>–</p>
@@ -44,7 +44,7 @@ L.marker([41.706632, 44.781503]).addTo(map)
     .openPopup();
 </script>
 
-<p><figure class="post__image"><img loading="lazy" src="https://f0rth.space/media/posts/12/entrance-2.jpeg" sizes="100vw" srcset="https://f0rth.space/media/posts/12/responsive/entrance-2-xs.jpeg 300w ,https://f0rth.space/media/posts/12/responsive/entrance-2-sm.jpeg 480w ,https://f0rth.space/media/posts/12/responsive/entrance-2-md.jpeg 768w ,https://f0rth.space/media/posts/12/responsive/entrance-2-lg.jpeg 1024w ,https://f0rth.space/media/posts/12/responsive/entrance-2-xl.jpeg 1360w ,https://f0rth.space/media/posts/12/responsive/entrance-2-2xl.jpeg 1600w"  alt="Image description" width="480" height="480" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/entrance-2.jpeg" sizes="100vw" srcset="file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-xs.jpeg 300w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-sm.jpeg 480w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-md.jpeg 768w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-lg.jpeg 1024w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-xl.jpeg 1360w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-2xl.jpeg 1600w"  alt="Image description" width="480" height="480" /></figure></p>
 
             ]]>
         </content>
@@ -54,23 +54,23 @@ L.marker([41.706632, 44.781503]).addTo(map)
         <author>
             <name>morris</name>
         </author>
-        <link href="https://f0rth.space/digital-audio-jam.html"/>
-        <id>https://f0rth.space/digital-audio-jam.html</id>
+        <link href="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/digital-audio-jam.html"/>
+        <id>file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/digital-audio-jam.html</id>
             <category term="Digital Audio JAM"/>
 
         <updated>2022-10-09T13:07:29+04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://f0rth.space/media/posts/11/photo_5319077225707979362_y-2.jpeg" alt="" />
+                        <img src="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/photo_5319077225707979362_y-2.jpeg" alt="" />
                     We meet every first and second Saturday at 6pm to play with anykind of digitlal music equipment, synts drum machines or whatever you bring. If possible please bring an instrument and some cables for your instrument, if you want to be synced either midi with&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://f0rth.space/media/posts/11/photo_5319077225707979362_y-2.jpeg" alt="" />
+                    <img src="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/photo_5319077225707979362_y-2.jpeg" alt="" />
                 <p>We meet every first and second Saturday at 6pm to play with anykind of digitlal music equipment, synts drum machines or whatever you bring.</p>
 <p>If possible please bring an instrument and some cables for your instrument, if you want to be synced either midi with din 5 or cv with 3.5mm jack , for audio we use 6.35mm  jack or XLR jack.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://f0rth.space/media/posts/11/photo_5319077225707979362_y.jpeg" sizes="100vw" srcset="https://f0rth.space/media/posts/11/responsive/photo_5319077225707979362_y-xs.jpeg 300w ,https://f0rth.space/media/posts/11/responsive/photo_5319077225707979362_y-sm.jpeg 480w ,https://f0rth.space/media/posts/11/responsive/photo_5319077225707979362_y-md.jpeg 768w ,https://f0rth.space/media/posts/11/responsive/photo_5319077225707979362_y-lg.jpeg 1024w ,https://f0rth.space/media/posts/11/responsive/photo_5319077225707979362_y-xl.jpeg 1360w ,https://f0rth.space/media/posts/11/responsive/photo_5319077225707979362_y-2xl.jpeg 1600w"  alt="Image description" width="1280" height="960" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/photo_5319077225707979362_y.jpeg" sizes="100vw" srcset="file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-xs.jpeg 300w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-sm.jpeg 480w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-md.jpeg 768w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-lg.jpeg 1024w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-xl.jpeg 1360w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-2xl.jpeg 1600w"  alt="Image description" width="1280" height="960" /></figure></p>
 
             ]]>
         </content>
@@ -80,20 +80,20 @@ L.marker([41.706632, 44.781503]).addTo(map)
         <author>
             <name>morris</name>
         </author>
-        <link href="https://f0rth.space/self-organizing-systems.html"/>
-        <id>https://f0rth.space/self-organizing-systems.html</id>
+        <link href="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/self-organizing-systems.html"/>
+        <id>file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/self-organizing-systems.html</id>
             <category term="3D NIGHT"/>
 
         <updated>2022-10-09T13:27:46+04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://f0rth.space/media/posts/7/photo_5305657823729926263_y-2.jpeg" alt="" />
+                        <img src="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/photo_5305657823729926263_y-2.jpeg" alt="" />
                     Every thursday 8PM we meet to present and demo some great 3D related tools and projects. Please follow the Telegram Chat to see what is planned for the comming week. 8:00PM Thursday, October 6 F0RTHSP4CE, Khorava St, 18 This week we will have a Shader&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://f0rth.space/media/posts/7/photo_5305657823729926263_y-2.jpeg" alt="" />
+                    <img src="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/photo_5305657823729926263_y-2.jpeg" alt="" />
                 <p>Every thursday 8PM we meet to present and demo some great 3D related tools and projects. 
 <br>
 Please follow the Telegram Chat to see what is planned for the comming week.
@@ -106,7 +106,7 @@ F0RTHSP4CE, Khorava St, 18
 <p>This week we will have a Shader Session with @munrocket</p>
 <p>Part 1: Brief introduction into WebGPU compute pipeline. 
 Part 2: Live Coding shader art with SDFs, we will recreate the recent poster from the Nvidia presentation ( above ).</p>
-<p><figure class="post__image"><img loading="lazy" src="https://f0rth.space/media/posts/7/photo_5305657823729926263_y.jpeg" sizes="100vw" srcset="https://f0rth.space/media/posts/7/responsive/photo_5305657823729926263_y-xs.jpeg 300w ,https://f0rth.space/media/posts/7/responsive/photo_5305657823729926263_y-sm.jpeg 480w ,https://f0rth.space/media/posts/7/responsive/photo_5305657823729926263_y-md.jpeg 768w ,https://f0rth.space/media/posts/7/responsive/photo_5305657823729926263_y-lg.jpeg 1024w ,https://f0rth.space/media/posts/7/responsive/photo_5305657823729926263_y-xl.jpeg 1360w ,https://f0rth.space/media/posts/7/responsive/photo_5305657823729926263_y-2xl.jpeg 1600w"  alt="Image description" width="994" height="960" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/photo_5305657823729926263_y.jpeg" sizes="100vw" srcset="file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-xs.jpeg 300w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-sm.jpeg 480w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-md.jpeg 768w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-lg.jpeg 1024w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-xl.jpeg 1360w ,file:///Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-2xl.jpeg 1600w"  alt="Image description" width="994" height="960" /></figure></p>
 <hr>
 <pre><code>8:00PM Thursday, September 29 
 F0RTHSP4CE, Khorava St, 18
@@ -127,8 +127,8 @@ F0RTHSP4CE, Khorava St, 18
         <author>
             <name>morris</name>
         </author>
-        <link href="https://f0rth.space/some-news.html"/>
-        <id>https://f0rth.space/some-news.html</id>
+        <link href="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/some-news.html"/>
+        <id>file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/some-news.html</id>
             <category term="news"/>
 
         <updated>2022-09-30T09:58:17+04:00</updated>
@@ -149,8 +149,8 @@ F0RTHSP4CE, Khorava St, 18
         <author>
             <name>morris</name>
         </author>
-        <link href="https://f0rth.space/index.html"/>
-        <id>https://f0rth.space/index.html</id>
+        <link href="file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/index.html"/>
+        <id>file:////Users/morris/Documents/Publii/sites/f0rthsp4ce/preview/index.html</id>
 
         <updated>2022-10-09T12:36:29+04:00</updated>
             <summary>
