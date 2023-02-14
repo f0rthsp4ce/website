@@ -1,0 +1,33 @@
+
+
+
+{{#if @config.custom.linkButtonGithub}}
+<a 
+    href="{{@config.custom.linkButtonGithubURL}}"" 
+    class="link-btn outline github-btn"
+    aria-label="Github" 
+    title="Visit f0rtsp4ce on Github"
+    target="_blank">
+    <svg class="icon" aria-hidden="true" focusable="false" height="22" width="22">
+        <use xlink:href="{{@website.assetsUrl}}/svg/svg-map.svg#github"></use>
+    </svg> 
+    Github
+</a>
+{{/if}}
+{{#if @config.custom.linkButtonTelegram}}
+<a 
+    href="{{@config.custom.linkButtonTelegramURL}}"" 
+    class="link-btn outline telegram-btn"
+    aria-label="Telegram" 
+    title="Chat with f0rtsp4ce on Telegram"
+    target="_blank">
+    <svg class="icon" aria-hidden="true" focusable="false" height="22" width="22">
+        <use xlink:href="{{@website.assetsUrl}}/svg/svg-map.svg#telegram"></use>
+    </svg> 
+    Telegram
+</a>
+{{/if}}
+
+
+
+
