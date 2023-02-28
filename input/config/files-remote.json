@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "5cb50f71d215fc7bdd0eda136ba800e2"
+        "md5": "f0969aa79ddc141498705f5874d36a13"
     },
     {
         "path": "assets",
@@ -32,7 +32,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "6a9cf19bd9b3cc9225ef4f04ea7284ba"
+        "md5": "c4da37627e176b279650edf61ed4b060"
     },
     {
         "path": "assets/dynamic",
@@ -107,12 +107,12 @@
     {
         "path": "/authors/morris/index.html",
         "type": "file",
-        "md5": "8e76c532758734fb9d9e2f77d8d98a6b"
+        "md5": "a7c30435d7c11e45c1112d71e13e7118"
     },
     {
         "path": "digital-audio-jam.html",
         "type": "file",
-        "md5": "3093707db999bca81452162028f2acbd"
+        "md5": "c95b12ac44aad377035b87364d926dd3"
     },
     {
         "path": "entrance.jpeg",
@@ -122,12 +122,22 @@
     {
         "path": "events.html",
         "type": "file",
-        "md5": "00d309fd675cd266ca5838a75420948f"
+        "md5": "466050a8b97ed87761823e8da730cce2"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "27397071e3d1ceb0791a36b8f8bc718b"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "7606ca08cd20d6aaca232271aa8473d0"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "84371d43c262bdcc5bff3c114afac069"
+        "md5": "36adbb8f423c9840ac305821a6084c76"
     },
     {
         "path": "media",
@@ -737,27 +747,37 @@
     {
         "path": "principles.html",
         "type": "file",
-        "md5": "042dc8aaec34cb91cc7961fe0730128f"
+        "md5": "cd08b86393e52184a442ba276ad59319"
     },
     {
         "path": "residents.html",
         "type": "file",
-        "md5": "a46408b519655389e00e3a6f917cd7af"
+        "md5": "114d973c9d501ca2dc8fae61d8f0ede3"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "50d8a018e8ae96732c8a2ba663c61d4e"
+        "md5": "3c96d84043a06404a94aa305e7784681"
     },
     {
         "path": "self-organizing-systems.html",
         "type": "file",
-        "md5": "dff3f7dfcb0a37e779aa5b9fbccf79fa"
+        "md5": "7734ce42b02c26ce92197f5793dd32d3"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "1786520fa0627a3e982175837ff9b502"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
     },
     {
         "path": "some-news.html",
         "type": "file",
-        "md5": "a818275686898416dc5e83b81fdaef73"
+        "md5": "9a6895bb74ef4a4ced07aa7fb1082e1a"
     },
     {
         "path": "tags",
@@ -772,7 +792,7 @@
     {
         "path": "/tags/3d-night/index.html",
         "type": "file",
-        "md5": "859a011accf5054fb3933f69ae4a7fc0"
+        "md5": "b372b579436bf28e581db9deb9e3f959"
     },
     {
         "path": "tags/digital-audio-jam",
@@ -782,12 +802,12 @@
     {
         "path": "/tags/digital-audio-jam/index.html",
         "type": "file",
-        "md5": "ef8c7f7353cf7cab96ee3824f9bf246c"
+        "md5": "5764b10abdfa0b72db629315575a80d4"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "bfa6c1391bf7bf22df224f7234ad10e2"
+        "md5": "5239126984d298c3a1c966e471c513dc"
     },
     {
         "path": "tags/news",
@@ -797,11 +817,11 @@
     {
         "path": "/tags/news/index.html",
         "type": "file",
-        "md5": "240e16785c7c1afe58c57565ee1e27ca"
+        "md5": "eeae48e2b5e4d721dc1236d6ff3c39b3"
     },
     {
         "path": "visit-us.html",
         "type": "file",
-        "md5": "71143cc3c623c0c46edc47ab86c4bb89"
+        "md5": "5d6bcf8342d240a0df5153b017eae400"
     }
 ]
