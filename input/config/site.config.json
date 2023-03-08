@@ -1,6 +1,6 @@
 {
     "uuid": "uuid-1664479467855-123704034",
-    "name": "f0rthsp4ce",
+    "name": "website",
     "displayName": "F0RTHSP4CE",
     "synced": "synced",
     "logo": {
@@ -216,5 +216,5 @@
         }
     },
     "theme": "simple-f0rth",
-    "syncDate": 1677622490068
+    "syncDate": 1678296742104
 }

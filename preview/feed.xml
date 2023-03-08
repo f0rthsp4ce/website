@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>F0RTHSP4CE</title>
-    <link href="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/feed.xml" rel="self" />
-    <link href="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview" />
-    <updated>2023-03-01T01:44:43+04:00</updated>
+    <link href="file:////Users/dsdr/Documents/Publii/sites/website/preview/feed.xml" rel="self" />
+    <link href="file:////Users/dsdr/Documents/Publii/sites/website/preview" />
+    <updated>2023-03-01T00:44:43+03:00</updated>
     <author>
         <name>morris</name>
     </author>
-    <id>file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview</id>
+    <id>file:////Users/dsdr/Documents/Publii/sites/website/preview</id>
 
     <entry>
         <title>visit us</title>
         <author>
             <name>morris</name>
         </author>
-        <link href="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/visit-us.html"/>
-        <id>file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/visit-us.html</id>
-        <media:content url="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/entrance.jpeg" medium="image" />
+        <link href="file:////Users/dsdr/Documents/Publii/sites/website/preview/visit-us.html"/>
+        <id>file:////Users/dsdr/Documents/Publii/sites/website/preview/visit-us.html</id>
+        <media:content url="file:////Users/dsdr/Documents/Publii/sites/website/preview/media/posts/12/entrance.jpeg" medium="image" />
 
-        <updated>2023-03-01T01:44:43+04:00</updated>
+        <updated>2023-03-01T00:44:43+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/entrance.jpeg" alt="" />
+                        <img src="file:////Users/dsdr/Documents/Publii/sites/website/preview/media/posts/12/entrance.jpeg" alt="" />
                     You can visit us during public opening times in our space. Address: Akaki Khorava Street, 18 Scroll down to see an image of our door. –
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/entrance.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="file:////Users/dsdr/Documents/Publii/sites/website/preview/media/posts/12/entrance.jpeg" class="type:primaryImage" alt="" /></p>
                 <h4 id="you-can-visit-us-during-public-opening-times-in-our-space">You can visit us during public opening times in our space.</h4>
 <p>Address: Akaki Khorava Street, 18</p>
 <p>Scroll down to see an image of our door.</p>
@@ -46,7 +46,7 @@ L.marker([41.706632, 44.781503]).addTo(map)
     .openPopup();
 </script>
 
-<p><figure class="post__image"><img loading="lazy" src="file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/entrance-2.jpeg" alt="Image description" width="480" height="480"  sizes="100vw" srcset="file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-xs.jpeg 300w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-sm.jpeg 480w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-md.jpeg 768w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-lg.jpeg 1024w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-xl.jpeg 1360w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/12/responsive/entrance-2-2xl.jpeg 1600w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/12/entrance-2.jpeg" alt="Image description" width="480" height="480"  sizes="100vw" srcset="file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/12/responsive/entrance-2-xs.jpeg 300w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/12/responsive/entrance-2-sm.jpeg 480w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/12/responsive/entrance-2-md.jpeg 768w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/12/responsive/entrance-2-lg.jpeg 1024w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/12/responsive/entrance-2-xl.jpeg 1360w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/12/responsive/entrance-2-2xl.jpeg 1600w"></figure></p>
 
             ]]>
         </content>
@@ -56,24 +56,24 @@ L.marker([41.706632, 44.781503]).addTo(map)
         <author>
             <name>morris</name>
         </author>
-        <link href="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/digital-audio-jam.html"/>
-        <id>file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/digital-audio-jam.html</id>
-        <media:content url="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/photo_5319077225707979362_y-2.jpeg" medium="image" />
+        <link href="file:////Users/dsdr/Documents/Publii/sites/website/preview/digital-audio-jam.html"/>
+        <id>file:////Users/dsdr/Documents/Publii/sites/website/preview/digital-audio-jam.html</id>
+        <media:content url="file:////Users/dsdr/Documents/Publii/sites/website/preview/media/posts/11/photo_5319077225707979362_y-2.jpeg" medium="image" />
             <category term="Digital Audio JAM"/>
 
-        <updated>2022-10-09T13:07:29+04:00</updated>
+        <updated>2022-10-09T12:07:29+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/photo_5319077225707979362_y-2.jpeg" alt="" />
+                        <img src="file:////Users/dsdr/Documents/Publii/sites/website/preview/media/posts/11/photo_5319077225707979362_y-2.jpeg" alt="" />
                     We meet every first and second Saturday at 6pm to play with anykind of digitlal music equipment, synts drum machines or whatever you bring. If possible please bring an instrument and some cables for your instrument, if you want to be synced either midi with&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/photo_5319077225707979362_y-2.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="file:////Users/dsdr/Documents/Publii/sites/website/preview/media/posts/11/photo_5319077225707979362_y-2.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>We meet every first and second Saturday at 6pm to play with anykind of digitlal music equipment, synts drum machines or whatever you bring.</p>
 <p>If possible please bring an instrument and some cables for your instrument, if you want to be synced either midi with din 5 or cv with 3.5mm jack , for audio we use 6.35mm  jack or XLR jack.</p>
-<p><figure class="post__image"><img loading="lazy" src="file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/photo_5319077225707979362_y.jpeg" alt="Image description" width="1280" height="960"  sizes="100vw" srcset="file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-xs.jpeg 300w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-sm.jpeg 480w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-md.jpeg 768w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-lg.jpeg 1024w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-xl.jpeg 1360w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/11/responsive/photo_5319077225707979362_y-2xl.jpeg 1600w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/11/photo_5319077225707979362_y.jpeg" alt="Image description" width="1280" height="960"  sizes="100vw" srcset="file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/11/responsive/photo_5319077225707979362_y-xs.jpeg 300w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/11/responsive/photo_5319077225707979362_y-sm.jpeg 480w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/11/responsive/photo_5319077225707979362_y-md.jpeg 768w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/11/responsive/photo_5319077225707979362_y-lg.jpeg 1024w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/11/responsive/photo_5319077225707979362_y-xl.jpeg 1360w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/11/responsive/photo_5319077225707979362_y-2xl.jpeg 1600w"></figure></p>
 
             ]]>
         </content>
@@ -83,21 +83,21 @@ L.marker([41.706632, 44.781503]).addTo(map)
         <author>
             <name>morris</name>
         </author>
-        <link href="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/self-organizing-systems.html"/>
-        <id>file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/self-organizing-systems.html</id>
-        <media:content url="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/photo_5305657823729926263_y-2.jpeg" medium="image" />
+        <link href="file:////Users/dsdr/Documents/Publii/sites/website/preview/self-organizing-systems.html"/>
+        <id>file:////Users/dsdr/Documents/Publii/sites/website/preview/self-organizing-systems.html</id>
+        <media:content url="file:////Users/dsdr/Documents/Publii/sites/website/preview/media/posts/7/photo_5305657823729926263_y-2.jpeg" medium="image" />
             <category term="3D NIGHT"/>
 
-        <updated>2022-10-09T13:27:46+04:00</updated>
+        <updated>2022-10-09T12:27:46+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/photo_5305657823729926263_y-2.jpeg" alt="" />
+                        <img src="file:////Users/dsdr/Documents/Publii/sites/website/preview/media/posts/7/photo_5305657823729926263_y-2.jpeg" alt="" />
                     Every thursday 8PM we meet to present and demo some great 3D related tools and projects. Please follow the Telegram Chat to see what is planned for the comming week. 8:00PM Thursday, October 6 F0RTHSP4CE, Khorava St, 18 This week we will have a Shader&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/photo_5305657823729926263_y-2.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="file:////Users/dsdr/Documents/Publii/sites/website/preview/media/posts/7/photo_5305657823729926263_y-2.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Every thursday 8PM we meet to present and demo some great 3D related tools and projects. 
 <br>
 Please follow the Telegram Chat to see what is planned for the comming week.
@@ -110,7 +110,7 @@ F0RTHSP4CE, Khorava St, 18
 <p>This week we will have a Shader Session with @munrocket</p>
 <p>Part 1: Brief introduction into WebGPU compute pipeline. 
 Part 2: Live Coding shader art with SDFs, we will recreate the recent poster from the Nvidia presentation ( above ).</p>
-<p><figure class="post__image"><img loading="lazy" src="file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/photo_5305657823729926263_y.jpeg" alt="Image description" width="994" height="960"  sizes="100vw" srcset="file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-xs.jpeg 300w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-sm.jpeg 480w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-md.jpeg 768w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-lg.jpeg 1024w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-xl.jpeg 1360w ,file:///home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/media/posts/7/responsive/photo_5305657823729926263_y-2xl.jpeg 1600w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/7/photo_5305657823729926263_y.jpeg" alt="Image description" width="994" height="960"  sizes="100vw" srcset="file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/7/responsive/photo_5305657823729926263_y-xs.jpeg 300w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/7/responsive/photo_5305657823729926263_y-sm.jpeg 480w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/7/responsive/photo_5305657823729926263_y-md.jpeg 768w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/7/responsive/photo_5305657823729926263_y-lg.jpeg 1024w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/7/responsive/photo_5305657823729926263_y-xl.jpeg 1360w ,file:///Users/dsdr/Documents/Publii/sites/website/preview/media/posts/7/responsive/photo_5305657823729926263_y-2xl.jpeg 1600w"></figure></p>
 <hr>
 <pre><code>8:00PM Thursday, September 29 
 F0RTHSP4CE, Khorava St, 18
@@ -131,11 +131,11 @@ F0RTHSP4CE, Khorava St, 18
         <author>
             <name>morris</name>
         </author>
-        <link href="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/some-news.html"/>
-        <id>file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/some-news.html</id>
+        <link href="file:////Users/dsdr/Documents/Publii/sites/website/preview/some-news.html"/>
+        <id>file:////Users/dsdr/Documents/Publii/sites/website/preview/some-news.html</id>
             <category term="news"/>
 
-        <updated>2022-09-30T09:58:17+04:00</updated>
+        <updated>2022-09-30T08:58:17+03:00</updated>
             <summary>
                 <![CDATA[
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
@@ -153,10 +153,10 @@ F0RTHSP4CE, Khorava St, 18
         <author>
             <name>morris</name>
         </author>
-        <link href="file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/index.html"/>
-        <id>file:////home/vasya/Documents/Publii/sites/f0rthsp4ce/preview/index.html</id>
+        <link href="file:////Users/dsdr/Documents/Publii/sites/website/preview/index.html"/>
+        <id>file:////Users/dsdr/Documents/Publii/sites/website/preview/index.html</id>
 
-        <updated>2023-03-01T01:34:25+04:00</updated>
+        <updated>2023-03-01T00:34:25+03:00</updated>
             <summary>
                 <![CDATA[
                     F0RTHSP4CE is a hackerspace and a community of enthusiasts focusing on art, technology, and society. We are always eager to learn and engage in new and challenging projects while creating events to share those experiences. But most importantly we are having a good time. is&hellip;
