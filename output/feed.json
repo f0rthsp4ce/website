@@ -14,15 +14,15 @@
             "url": "https://f0rth.space/visit-us.html",
             "title": "visit us",
             "summary": "You can visit us during public opening times in our space. Address: Akaki Khorava Street, 18 Scroll down to see an image of our door. –",
-            "content_html": "<h4 id=\"you-can-visit-us-during-public-opening-times-in-our-space\">You can visit us during public opening times in our space.</h4>\n<p>Address: Akaki Khorava Street, 18</p>\n<p>Scroll down to see an image of our door.</p>\n<p>–</p>\n<div class=\"map-wrapper\" style='position: relative;aspect-ratio: 16 / 9;'>\n  <div id=\"map\" style=' position: absolute; width: 100%; top:0; bottom: 0;'></div>\n</div>\n<script>\nvar map = L.map('map').setView([41.70670916153397, 44.78155741343478], 16);\nL.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {\n    maxZoom: 19,\n    attribution: '© OpenStreetMap'\n}).addTo(map);\nL.marker([41.706632, 44.781503]).addTo(map)\n    .bindPopup('F0RTHSP4CE<br>აკაკი ხორავის ქუჩა 18 / ვერა / თბილისი<br>Akaki Khorava Street, 18 / Vera / Tbilisi')\n    .openPopup();\n</script>\n\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://f0rth.space/media/posts/12/entrance-2.jpeg\" alt=\"Image description\" width=\"480\" height=\"480\"  sizes=\"100vw\" srcset=\"https://f0rth.space/media/posts/12/responsive/entrance-2-xs.jpeg 300w ,https://f0rth.space/media/posts/12/responsive/entrance-2-sm.jpeg 480w ,https://f0rth.space/media/posts/12/responsive/entrance-2-md.jpeg 768w ,https://f0rth.space/media/posts/12/responsive/entrance-2-lg.jpeg 1024w ,https://f0rth.space/media/posts/12/responsive/entrance-2-xl.jpeg 1360w ,https://f0rth.space/media/posts/12/responsive/entrance-2-2xl.jpeg 1600w\"></figure></p>\n",
+            "content_html": "<h4 id=\"you-can-visit-us-during-public-opening-times-in-our-space\">You can visit us during public opening times in our space.</h4>\n<p>Address: <a id=\"mapLink\" href=\"#\" onclick=\"openMap()\">Akaki Khorava Street, 18</a></p>\n<script>\n        function isMobileDevice() {\n                return /Mobi|Tablet|iPad|iPhone/i.test(navigator.userAgent);\n        }\n\n        function openMap() {\n                const latitude = 41.70670916153397;\n                const longitude = 44.78155741343478;\n\n                if (isMobileDevice()) {\n                        window.open(\"geo:\" + latitude + \",\" + longitude, \"_blank\");\n                } else {\n                        window.open(`https://www.openstreetmap.org/?mlat=${latitude}&mlon=${longitude}&zoom=17`, \"_blank\");\n                }\n        }\n</script>\n\n<p>Scroll down to see an image of our door.</p>\n<p>–</p>\n<div class=\"map-wrapper\" style='position: relative;aspect-ratio: 16 / 9;'>\n  <div id=\"map\" style=' position: absolute; width: 100%; top:0; bottom: 0; z-index: 1'></div>\n</div>\n<script>\nvar map = L.map('map').setView([41.70670916153397, 44.78155741343478], 16);\nL.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {\n    maxZoom: 19,\n    attribution: '© OpenStreetMap'\n}).addTo(map);\nL.marker([41.706632, 44.781503]).addTo(map)\n    .bindPopup('F0RTHSP4CE<br>აკაკი ხორავის ქუჩა 18 / ვერა / თბილისი<br>Akaki Khorava Street, 18 / Vera / Tbilisi')\n    .openPopup();\n</script>\n\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://f0rth.space/media/posts/12/entrance-2.jpeg\" alt=\"Image description\" width=\"480\" height=\"480\"  sizes=\"100vw\" srcset=\"https://f0rth.space/media/posts/12/responsive/entrance-2-xs.jpeg 300w ,https://f0rth.space/media/posts/12/responsive/entrance-2-sm.jpeg 480w ,https://f0rth.space/media/posts/12/responsive/entrance-2-md.jpeg 768w ,https://f0rth.space/media/posts/12/responsive/entrance-2-lg.jpeg 1024w ,https://f0rth.space/media/posts/12/responsive/entrance-2-xl.jpeg 1360w ,https://f0rth.space/media/posts/12/responsive/entrance-2-2xl.jpeg 1600w\"></figure></p>\n",
             "image": "https://f0rth.space/media/posts/12/entrance.jpeg",
             "author": {
                 "name": "morris"
             },
             "tags": [
             ],
-            "date_published": "2022-10-09T11:35:02+03:00",
-            "date_modified": "2023-03-01T00:44:43+03:00"
+            "date_published": "2022-10-09T12:35:02+04:00",
+            "date_modified": "2023-06-15T18:13:21+04:00"
         },
         {
             "id": "https://f0rth.space/digital-audio-jam.html",
@@ -37,8 +37,8 @@
             "tags": [
                    "Digital Audio JAM"
             ],
-            "date_published": "2022-09-30T18:35:00+03:00",
-            "date_modified": "2022-10-09T12:07:29+03:00"
+            "date_published": "2022-09-30T19:35:00+04:00",
+            "date_modified": "2022-10-09T13:07:29+04:00"
         },
         {
             "id": "https://f0rth.space/self-organizing-systems.html",
@@ -53,8 +53,8 @@
             "tags": [
                    "3D NIGHT"
             ],
-            "date_published": "2022-09-30T09:53:05+03:00",
-            "date_modified": "2022-10-09T12:27:46+03:00"
+            "date_published": "2022-09-30T10:53:05+04:00",
+            "date_modified": "2022-10-09T13:27:46+04:00"
         },
         {
             "id": "https://f0rth.space/some-news.html",
@@ -68,8 +68,8 @@
             "tags": [
                    "news"
             ],
-            "date_published": "2022-09-30T08:55:11+03:00",
-            "date_modified": "2022-09-30T08:58:17+03:00"
+            "date_published": "2022-09-30T09:55:11+04:00",
+            "date_modified": "2022-09-30T09:58:17+04:00"
         },
         {
             "id": "https://f0rth.space/index.html",
@@ -82,8 +82,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-09-29T22:59:15+03:00",
-            "date_modified": "2023-03-01T00:34:25+03:00"
+            "date_published": "2022-09-29T23:59:15+04:00",
+            "date_modified": "2023-03-01T01:34:25+04:00"
         }
     ]
 }
