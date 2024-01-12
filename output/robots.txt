@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://f0rth.space/sitemap.xml

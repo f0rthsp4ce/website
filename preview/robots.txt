@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: file:////Users/ilyamoiseev/Documents/Publii/sites/f0rtsp4ce/preview/sitemap.xml
