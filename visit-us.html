@@ -1,112 +1,13 @@
 <!DOCTYPE html>
-<html lang="ru">
-  <head>
-    <meta name="viewport" content="width=device-width" />
-    <meta charset="utf-8" />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="icons/favicon-32x32.png"
-      />
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="16x16"
-      href="icons/favicon-16x16.png"
-      />
-    <link rel="shortcut icon" href="icons/favicon.ico" />
-    <meta name="theme-color" content="#333" />
-    <title>F0RTHSP4CE - Hackerspace in Tbilisi</title>
-    <meta
-      name="description"
-      content="A community of enthusiasts, focused on technology and art. We are trying to wrap our heads around things that are not easy to understand and to create events. But first and foremost we are having a good time."
-      />
-    <meta
-      name="keywords"
-      content="f0rthsp4ce, forthspace, hackspace, hackerspace, hackerspace tbilisi"
-      />
-    <meta name="next-head-count" content="15" />
-    <style>
-      body {
-          background-color: #333;
-          color: #DDD;
-          margin:40px auto;
-          max-width: 650px;
-          line-height: 1.6;
-          font-size: 18px;
-          padding:0 10px;
-          font-family: Tahoma, sans-serif;
-      }
+<html>
 
-      h1,h2,h3{
-          line-height:1.2
-      }
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=/#howto" />
+</head>
 
-      a {
-          color: #FFF;
-          font-weight: bold;
-          text-decoration: underline;
-      }
+<body>
+  <p>redirect: <a href="/#howto">press here</a> UwU</p>
+</body>
 
-      #logo {
-          vertical-align: baseline;
-      }
-
-      h1 {
-          font-size: 42px;
-      }
-
-      .copy-on-click {
-          border-bottom: 1px dashed white;
-          cursor: pointer;
-      }
-    </style>
-    <script>
-      function addCopyOnClick (element) {
-          element.onclick = function() {
-              document.execCommand("copy");
-          }
-
-          element.addEventListener("copy", function (event) {
-              event.preventDefault();
-              if (event.clipboardData) {
-                  event.clipboardData.setData("text/plain", element.textContent);
-              }
-          });
-      }
-
-      document.addEventListener('DOMContentLoaded', function () {
-          [].forEach.call(document.querySelectorAll('.copy-on-click'), addCopyOnClick);
-      });
-    </script>
-  </head>
-  <body>
-    <main>
-      <article>
-        <header>
-          <h1 id="howto"><a href="/"><img id="logo" src="icons/favicon-32x32.png"/></a> How to approach us</h1>
-        </header>
-        <p>
-            Tbilisi, Janashia st, 11/18 (Vake) (<span class="copy-on-click">41.706632, 44.781503</span>)
-            <a target="_blank" href="https://yandex.com.ge/maps/-/CCUBYGSX9D">Y.Maps</a>,
-            <a target="_blank" href="https://maps.app.goo.gl/SL7vCGH1LaGXJzxS8">G.Maps</a>,
-            <a target="_blank" href="https://www.openstreetmap.org/node/9959433575">OSM</a>
-        </p>
-        <p>
-          <img src="img/entrance.jpg" width="50%" />
-        </p>
-        <p>
-          Come and visit - to talk, to see the space for yourself or maybe
-          even to ask for help. Different people find different modes of
-          communication preferrable, so you may also just visit and work on
-          your project uninterrupted or just sit and read a book.
-        </p>
-        <p>
-          You can visit all of our events: join <a href="https://t.me/f0rthsp4ce">telegram channel</a> to get the announcements.<br/>
-          If you wish to visit us at times when there are no events taking place, we kindly ask you to arrange your visit with a resident, who will guide you in the space. You can ask for a visit in a <a href="https://t.me/f0_public_chat/29469">special Telegram topic</a>, to see if there is anyone ready to meet you.
-        </p>
-      </article>
-    </main>
-  </body>
 </html>
