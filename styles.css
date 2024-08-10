@@ -1,0 +1,44 @@
+body {
+    background-color: #222;
+    color: #DDD;
+    line-height: 1.6;
+    font-size: 18px;
+    padding: 0 10px;
+    font-family: Tahoma, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    line-height: 1.2
+}
+
+a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#logo {
+    vertical-align: baseline;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+
+main {
+    max-width: 650px;
+    margin: 40px auto;
+}
+
+.copy-on-click {
+    border-bottom: 1px dashed white;
+    cursor: pointer;
+}
+
+.img-entrance {
+    max-width: 400px;
+    width: 100%;
+}
