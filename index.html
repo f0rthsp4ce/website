@@ -33,6 +33,25 @@
       [].forEach.call(document.querySelectorAll('.copy-on-click'), addCopyOnClick);
     });
   </script>
+  <style>
+    .table-row {
+        display: flex;
+        width: 100%;
+    }
+    .table-cell {
+        flex: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+		padding: 5px; /* Add padding */
+        overflow: hidden;
+    }
+    .table-cell img {
+        width: auto;
+        max-height: 100%; /* Ensures images have the same height */
+        max-width: 600px;
+    }
+</style>
 </head>
 
 <body>
@@ -62,16 +81,17 @@
     </ul>
     The main entrance is a gray metal gate; our blue door is inside on the first floor to the right:
     </p>
-    <table>
-      <tr>
-        <td style="padding-inline-end: 5px;">
-          <img class="img-entrance" src="img/entrance_1.jpg" />
-        </td>
-        <td style="padding-inline-start: 5px;">
-          <img class="img-entrance" src="img/entrance_2.jpg" />
-        </td>
-      </tr>
-    </table>
+	
+	<div class="table-row" style="height: 300px;">
+		<div class="table-cell">
+			<img src="img/entrance_1.jpg" alt="Image 1">
+		</div>
+		<div> </div>
+		<div class="table-cell">
+			<img src="img/entrance_2.jpg" alt="Image 2">
+		</div>
+	</div>
+
 
     <p>
       Come and visit — to talk, to see the space for yourself or maybe
